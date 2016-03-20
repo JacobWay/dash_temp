@@ -1,0 +1,22 @@
+{
+  "name": "dash_temp",
+  "authors": [
+    "JacobWay <soarinblue@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#~4.5.0",
+    "bootstrap": "~3.3.6"
+  }
+}
